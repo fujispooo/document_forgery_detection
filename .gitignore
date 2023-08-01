@@ -16,3 +16,5 @@ dataset/findit2/val/not_forged/*
 !dataset/findit2/train/not_forged/.gitkeep
 !dataset/findit2/test/not_forged/.gitkeep
 !dataset/findit2/val/not_forged/.gitkeep
+
+.DS_Store
